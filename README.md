@@ -1,4 +1,4 @@
-# ektsite
+# 'Everyone Knows That' Website
 A website to explain 'Everyone Knows That' search simply, especially to non-Reddit users. Open for contributions via GitHub Pull Requests.
 
 Copyright (C) 2024 Eddie Coldrick, reproducible under MIT license.
